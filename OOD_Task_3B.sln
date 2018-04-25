@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOD_Task_3B", "OOD_Task_3B\OOD_Task_3B.csproj", "{27371557-F048-4414-A80F-2C2F9AD1EBCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27371557-F048-4414-A80F-2C2F9AD1EBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27371557-F048-4414-A80F-2C2F9AD1EBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27371557-F048-4414-A80F-2C2F9AD1EBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27371557-F048-4414-A80F-2C2F9AD1EBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDAFFC14-4A30-44CA-945B-35B4C03855A7}
+	EndGlobalSection
+EndGlobal
